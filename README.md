@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Harsh
-## An enthusiastic developer fueled by a passion for innovation and technology.
+###                   Hi there 👋, I'm Harsh
+##       An enthusiastic developer fueled by a passion for innovation and technology.
 
 
 
