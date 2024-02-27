@@ -1,7 +1,7 @@
 ###                   Hi there 👋, I'm Harsh
 ##       An enthusiastic developer fueled by a passion for innovation and technology.
 
-![alt text]([http://url/to/img.png](https://github.com/Harsh1737/Harsh1737/blob/main/img.jpg))
+![alt text](https://ibb.co/mTDNMGh))
 
 
 - 🔭 I’m currently working on my portfolio website.
