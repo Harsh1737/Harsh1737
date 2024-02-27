@@ -1,7 +1,7 @@
 ###                   Hi there 👋, I'm Harsh
 ##       An enthusiastic developer fueled by a passion for innovation and technology.
 
-![alt text](https://ibb.co/mTDNMGh))
+![alt text](https://i.ibb.co/wg0cxRp/img.jpg)
 
 
 - 🔭 I’m currently working on my portfolio website.
