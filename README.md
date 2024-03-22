@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on my portfolio website.
-- 🌱 I’m currently learning Data Structure, React, and Aws cloud computing.
+- 🌱 I’m learning Data Structure, React, and Aws cloud computing.
 - 💬 Ask me about C, Java, SQL, HTML, CSS, Javascript, Node, Express
 - 📫 How to reach me: harshbit10@gmail.com
-- ⚡ Fun fact: I am ambitious
+- ⚡ Fun fact: I love playing football.⚽⚽
