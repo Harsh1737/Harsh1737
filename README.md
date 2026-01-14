@@ -23,13 +23,3 @@ I’m a Full-Stack Developer with experience building scalable web applications 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Harsh1737" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/harsh1737" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@harshbit10" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Harsh1737"><img src="https://github-readme-stats.vercel.app/api?username=Harsh1737&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=6366f1&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="Harsh1737's GitHub stats" /></a>
-
-<a href="http://www.github.com/Harsh1737"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh1737&stroke=6366f1&background=181824&ring=22c55e&fire=22c55e&currStreakNum=6366f1&currStreakLabel=22c55e&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
-
-<a href="https://github.com/Harsh1737" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh1737&langs_count=10&title_color=22c55e&text_color=6366f1&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
