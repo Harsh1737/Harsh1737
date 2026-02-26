@@ -78,12 +78,15 @@ fun_fact: "I love to play football ⚽"
 | &nbsp; | Repository | Description | Language | Stars |
 |--------|-----------|-------------|----------|-------|
 | 🌐 | [**harsh-site**](https://github.com/Harsh1737/harsh-site) | Personal portfolio website | `HTML` | ⭐ 0 |
-| ⚙️ | [**Dotfiles**](https://github.com/Harsh1737/Dotfiles) | My config dotfiles | `—` | ⭐ 0 |
+| ⚙️ | [**Dotfiles**](https://github.com/Harsh1737/Dotfiles) | My config dotfiles | — | ⭐ 0 |
 | 🎬 | [**Youtube**](https://github.com/Harsh1737/Youtube) | A backend  project | `JavaScript` | ⭐ 0 |
-| 🔧 | [**Custom-git**](https://github.com/Harsh1737/Custom-git) | Custom git implementation | `JavaScript` | ⭐ 0 |
-| ♟️ | [**chess-sem6**](https://github.com/Harsh1737/chess-sem6) | Chess mini-project for college ( 6th sem ) | `TypeScript` | ⭐ 0 |
-| 💡 | [**SIH-24**](https://github.com/Harsh1737/SIH-24) | Smart India Hackathon 2024 | `JavaScript` | ⭐ 0 |
+| 🔧 | [**Custom-git**](https://github.com/Harsh1737/Custom-git) | No description | `JavaScript` | ⭐ 0 |
+| ♟️ | [**chess-sem6**](https://github.com/Harsh1737/chess-sem6) | Chess mini-project for college ( 6th ... | `TypeScript` | ⭐ 0 |
+| 💡 | [**SIH-24**](https://github.com/Harsh1737/SIH-24) | No description | `JavaScript` | ⭐ 0 |
+
 <!-- END_REPOS -->
+
+> *Last updated: 2026-02-26 19:20:26 UTC*
 
 > *This section is auto-updated by [GitHub Actions](.github/workflows/update-readme.yml) — repos refresh daily!*
 
