@@ -98,23 +98,22 @@ def update_readme(repos_table):
         logger.error("Error: Repository markers not found in README!")
         return False
     
-    # Replace content between markers
-    start_idx = content.find(start_marker) + len(start_marker)
-    end_idx = content.find(end_marker)
+    # Split the content at the markers
+    before_repos = content.split(start_marker)[0]
+    after_repos = content.split(end_marker)[1]
     
     # Build new content
     new_content = (
-        content[:start_idx] +
+        before_repos +
+        start_marker +
         "\n" + repos_table + "\n" +
-        content[end_idx:]
+        end_marker +
+        after_repos
     )
     
-    # Remove old timestamp if it exists
-    new_content = new_content.split("> *Last updated:")[0]
-    
-    # Add new update timestamp
+    # Update the timestamp
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
-    new_content += f"\n> *Last updated: {timestamp}*"
+    new_content = new_content.replace("<!--TIMESTAMP-->", timestamp)
     
     # Write back
     with open(README_FILE, "w", encoding="utf-8") as f:

@@ -80,7 +80,7 @@ This section is automatically updated by a GitHub Action.
 
 > *Last updated: 2026-02-26 19:20:26 UTC*
 
-> *This section is auto-updated by [GitHub Actions](.github/workflows/update-readme.yml) — repos refresh daily!*
+> *Last updated: <!--TIMESTAMP-->*
 
 ---
 
