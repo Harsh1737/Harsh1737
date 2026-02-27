@@ -1,12 +1,11 @@
-name: Update README with Repos
+name: Update repo list
 
 on:
   push:
     branches:
   schedule:
-    # Run daily at 12:00 UTC
     - cron: '0 12 * * *'
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -19,9 +18,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: |
@@ -29,20 +28,12 @@ jobs:
           pip install requests
 
       - name: Update README
-        run: python update_readme.py
+        run: python ./code/update_readme.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Check for changes
-        id: verify-changed-files
-        run: |
-          git diff --quiet README.md || echo "changed=true" >> $GITHUB_OUTPUT
+          GITHUB_TOKEN: ${{ secrets.README_PAT }}
 
       - name: Commit and push changes
-        if: steps.verify-changed-files.outputs.changed == 'true'
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "docs: auto-update README with latest repositories"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: auto-update README with latest repositories"
+          file_pattern: README.md

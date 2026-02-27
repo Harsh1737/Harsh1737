@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" /> I'm Harsh</h1>
 
-<img width="100%" src="./hero.jpg" alt="Hero Banner" />
+<img width="100%" src="./assets/hero.jpg" alt="Hero Banner" />
 
 <div align="center">
 
