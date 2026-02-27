@@ -76,11 +76,7 @@ I'm a passionate DevOps Engineer with a knack for automating, securing, and opti
 This section is automatically updated by a GitHub Action.
 <!-- END_REPOS -->
 
-> *Last updated: 2026-02-27 12:28:02 UTC*
-
-> *Last updated: 2026-02-26 19:20:26 UTC*
-
-> *Last updated: <!--TIMESTAMP-->*
+> *This section is auto-updated by [GitHub Actions](.github/workflows/update-readme.yml). Last updated: <!--TIMESTAMP-->*
 
 ---
 
