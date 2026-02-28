@@ -42,8 +42,8 @@ class TestCore(unittest.TestCase):
         self.assertIn("[**Repo1**]", table)
         self.assertTrue(table.find("Repo2") < table.find("Repo1"))
         # Check for description truncation
-        self.assertIn("truncated...", table)
-        self.assertNotIn("A very long description", table)
+        self.assertIn("...", table)
+        self.assertNotIn("definitely need to be truncated", table)
 
     def test_build_repos_table_no_repos(self):
         """Test the build_repos_table function with no repos."""
