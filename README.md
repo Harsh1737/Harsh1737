@@ -25,7 +25,7 @@
 
 </div>
 
-## nbsp; About Me
+## &nbsp; About Me
 
 <div align="center">
 I'm a passionate DevOps Engineer with a knack for automating, securing, and optimizing cloud-native systems. My journey in tech has been driven by a curiosity for how to make software delivery faster, more reliable, and more secure. I thrive on the challenges of building robust infrastructure, implementing intelligent monitoring with AIOps, and embedding security into every stage of the development lifecycle.
