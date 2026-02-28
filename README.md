@@ -73,10 +73,18 @@ I'm a passionate DevOps Engineer with a knack for automating, securing, and opti
 ## &nbsp; My Repositories
 
 <!-- START_REPOS -->
-This section is automatically updated by a GitHub Action.
+| &nbsp; | Repository | Description | Language | Stars |
+|--------|-----------|-------------|----------|-------|
+| 📦 | [**harsh-site**](https://github.com/Harsh1737/harsh-site) | Personal portfolio website | `HTML` | ⭐ 0 |
+| 📦 | [**Dotfiles**](https://github.com/Harsh1737/Dotfiles) | My config dotfiles | — | ⭐ 0 |
+| 📦 | [**Youtube**](https://github.com/Harsh1737/Youtube) | A backend  project | `JavaScript` | ⭐ 0 |
+| 📦 | [**Custom-git**](https://github.com/Harsh1737/Custom-git) | No description | `JavaScript` | ⭐ 0 |
+| 📦 | [**chess-sem6**](https://github.com/Harsh1737/chess-sem6) | Chess mini-project for college ( 6th ... | `TypeScript` | ⭐ 0 |
+| 📦 | [**SIH-24**](https://github.com/Harsh1737/SIH-24) | No description | `JavaScript` | ⭐ 0 |
+
 <!-- END_REPOS -->
 
-> *This section is auto-updated by [GitHub Actions](.github/workflows/update-readme.yml). Last updated: <!--TIMESTAMP-->*
+> *This section is auto-updated by [GitHub Actions](.github/workflows/update-readme.yml). Last updated: 2026-02-28 00:32:38 UTC*
 
 ---
 
