@@ -18,7 +18,7 @@ def build_repos_table(repos):
     
     # Filter out this repo itself and sort by stars then updated date
     repos = [r for r in repos if r["name"].lower() != GITHUB_USERNAME.lower()]
-    repos = sorted(repos, key=lambda x: (-x["stargazers_count"], x["updated_at"]), reverse=True)
+    repos = sorted(repos, key=lambda x: (x["stargazers_count"], x["updated_at"]), reverse=True)
     
     table = "| &nbsp; | Repository | Description | Language | Stars |\n"
     table += "|--------|-----------|-------------|----------|-------|\n"
