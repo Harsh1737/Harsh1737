@@ -5,7 +5,8 @@ env:
   COMMIT_MESSAGE: "docs: auto-update README with latest repositories"
 
 on:
-  push: [ main ]
+  push:
+    branches: [ main ]
   schedule:
     - cron: '0 12 * * *'
   workflow_dispatch:
@@ -33,7 +34,7 @@ jobs:
       - name: Update README
         run: python ./code/update_readme.py
         env:
-          GITHUB_TOKEN: ${{ secrets.README_PAT }}
+          README_PAT: ${{ secrets.README_PAT }}
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
