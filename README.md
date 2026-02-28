@@ -75,12 +75,12 @@ I'm a passionate DevOps Engineer with a knack for automating, securing, and opti
 <!-- START_REPOS -->
 | &nbsp; | Repository | Description | Language | Stars |
 |--------|-----------|-------------|----------|-------|
+| 📦 | [**SIH-24**](https://github.com/Harsh1737/SIH-24) | Smart India Hackathon '24 - Freelanci... | `JavaScript` | ⭐ 0 |
 | 📦 | [**harsh-site**](https://github.com/Harsh1737/harsh-site) | Personal portfolio website | `HTML` | ⭐ 0 |
 | 📦 | [**Dotfiles**](https://github.com/Harsh1737/Dotfiles) | My config dotfiles | — | ⭐ 0 |
 | 📦 | [**Youtube**](https://github.com/Harsh1737/Youtube) | A backend  project | `JavaScript` | ⭐ 0 |
 | 📦 | [**Custom-git**](https://github.com/Harsh1737/Custom-git) | No description | `JavaScript` | ⭐ 0 |
 | 📦 | [**chess-sem6**](https://github.com/Harsh1737/chess-sem6) | Chess mini-project for college ( 6th ... | `TypeScript` | ⭐ 0 |
-| 📦 | [**SIH-24**](https://github.com/Harsh1737/SIH-24) | No description | `JavaScript` | ⭐ 0 |
 
 <!-- END_REPOS -->
 
