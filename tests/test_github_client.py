@@ -7,6 +7,8 @@ from pathlib import Path
 # Add the 'code' directory to the Python path
 sys.path.insert(0, str(Path(__file__).parent.parent / 'code'))
 
+from urllib.error import URLError
+
 from github_client import GitHubClient
 
 class TestGitHubClient(unittest.TestCase):
@@ -44,7 +46,7 @@ class TestGitHubClient(unittest.TestCase):
         request_args = mock_urlopen.call_args[0][0]
         self.assertNotIn("Authorization", request_args.headers)
 
-    @patch('github_client.urlopen', side_effect=Exception("API Error"))
+    @patch('github_client.urlopen', side_effect=URLError("API Error"))
     def test_get_user_repos_failure(self, mock_urlopen):
         """Test failure when fetching user repositories."""
         client = GitHubClient("testuser", "faketoken")

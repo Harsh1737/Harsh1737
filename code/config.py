@@ -1,3 +1,5 @@
+from pathlib import Path
+
 # --- Configuration ---
 GITHUB_USERNAME = "Harsh1737"
 README_FILE = Path(__file__).parent.parent / "README.md"
